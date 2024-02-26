@@ -13,3 +13,8 @@
 - $mm: string   *(返回timestamp分, 00-59)*
 - $s: number    *(返回timestamp秒, 0-59)*
 - $ss: string   *(返回timestamp秒, 00-59)*
+
+#### Element
+
+- data_()
+- _data()
