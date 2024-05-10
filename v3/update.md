@@ -18,3 +18,10 @@
 
 - data_()
 - _data()
+
+#### dom
+
+- 新增 LENGTH() 函式
+    若值 `data.array = [1, 2, 3, 4];`
+    則會 `<p>共有 {{ LENGTH(array) }} 項</p>`
+    輸出 `<p>共有 4 項</p>`
